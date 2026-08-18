@@ -33,7 +33,7 @@ The deployed application provides an interactive interface for:
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Prototype | [Open Application](https://hr-attrition-stratified-pipeline.streamlit.app/) |
+| 🌐 Live link | [Open Application](https://hr-attrition-stratified-pipeline.streamlit.app/) |
 | 💻 GitHub Repository | [View Repository](https://github.com/hritwikrupesh/hr-attrition-stratified-pipeline) |
 
 ---
